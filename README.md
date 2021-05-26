@@ -15,7 +15,7 @@ modbus:
     timeout: 5
 ```
 
-# sensor section on configuration.yaml
+# sensor section on modbus.yaml
 ```
 ##########################Modbus Config Test for pzem-017##########################
 - platform: modbus

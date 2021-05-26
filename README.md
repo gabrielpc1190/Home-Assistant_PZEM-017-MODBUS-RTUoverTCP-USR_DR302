@@ -62,3 +62,5 @@ modbus:
 #      register: 7
 #      register_type: input
 ```
+Also, make sure you setup your USR-DR302 on the serial tab with the correct values:
+Baud rate 9600, 8 Data Bits, 2 Stop Bits and no Parity
